@@ -16,15 +16,3 @@ A frontend-only clone of the popular music streaming platform **Spotify**, built
 - **CSS3**
 
 
-## 🛠️ How to Run
-
-To view the website locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/spotify-clone.git
-
-# Navigate into the folder
-cd spotify-clone
-
-# Open index.html in your browser
